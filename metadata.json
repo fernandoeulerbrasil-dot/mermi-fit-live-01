@@ -1,0 +1,6 @@
+{
+  "name": "MERMI FIT LIFE",
+  "description": "Ecossistema digital de alimentação, saúde, fitness, evolução, comunidade e gamificação. Mais que um app. Um estilo de vida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
